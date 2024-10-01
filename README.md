@@ -1,3 +1,5 @@
+# RAINBOW GENERATOR: A GENERATIVE APPROACH FOR NAME ONLY CONTINUAL LEARNING
+
 We provide the dataset used for iclr 9654 submission, generated using Stable Diffusion XL, DALL.E-2, DeepFloyd IF, CogView2, Stable Diffusion 3, and AuraFlow.
 
 Disclaimer
